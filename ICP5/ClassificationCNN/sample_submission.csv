@@ -1,0 +1,19 @@
+original category,file, predicted category
+Highway,17.jpg,Intersection
+Intersection,19.JPG,Intersection
+Highway,20.JPG,Intersection
+Intersection,20.JPG,Intersection
+Highway,19.jpg,Intersection
+Traffic,17.jpg,Intersection
+Traffic,21.jpg,Intersection
+Traffic,19.jpg,Intersection
+Intersection,21.jpg,Intersection
+Traffic,20.jpg,Intersection
+Highway,21.jpg,Intersection
+Traffic,18.jpg,Intersection
+Intersection,18.jpg,Intersection
+Highway,16.jpg,Intersection
+Traffic,16.jpg,Intersection
+Intersection,16.jpg,Intersection
+Highway,18.jpg,Intersection
+Intersection,17.jpg,Intersection
