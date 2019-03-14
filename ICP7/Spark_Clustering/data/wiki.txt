@@ -1,0 +1,57 @@
+An LED traffic light in Portsmouth, England
+A traffic light for pedestrians in Switzerland
+A traffic light in Jakarta, Indonesia with its timer
+Traffic lights, also known as traffic signals, traffic lamps, traffic semaphore, signal lights, stop lights,
+robots (in South Africa and most of Africa), and traffic control signals (in technical parlance),[1] are
+signalling devices positioned at road intersections, pedestrian crossings, and other locations to control flows of traffic.
+The world's first traffic light was short lived. It was a manually operated gas-lit signal installed
+in London in December 1868. It exploded less than a month after it was implemented, injuring its policeman
+operator.[2] Traffic control started to seem necessary in the late 1890s and Earnest Sirrine from Chicago patented
+the first automated traffic control system in 1910. It used the words "STOP" and "PROCEED", although neither word lit up.[3]
+Traffic lights alternate the right of way accorded to users by illuminating lamps or LEDs of standard colours
+(red, amber (yellow), and green) following a universal colour code. In the typical sequence of colour phas
+Before traffic lights, traffic police controlled the flow of traffic. A well-documented example is that on London
+Bridge in 1722.[6] Three men were given the task of directing traffic coming in and out of either London or Southwark.
+Each officer would help direct traffic coming out of Southwark into London and he made sure all traffic stayed on the
+west end of the bridge. A second officer would direct traffic on the east end of the bridge to control the flow of people leaving London and going into Southwark.
+On 9 December 1868,[7] the first non-electric gas-lit traffic lights were installed outside the Houses of Parliament in
+London to control the traffic in Bridge Street, Great George Street, and Parliament Street.[8] They were proposed by the
+railway engineer J. P. Knight of Nottingham who had adapted this idea from his design of railway signalling systems[9] and constructed by the railway signal engineers of Saxby & Farmer. The main reason for the traffic light was that there was an overflow of horse-drawn traffic over Westminster Bridge which forced thousands of pedestrians to walk next to the Houses of Parliament.[10] The design combined three semaphore arms with red and green gas lamps for night-time use, on a pillar, operated by a police constable. The gas lantern was manually turned by a traffic police officer with a lever at its base so that the appropriate light faced traffic.[11] The signal was 22 feet (6.7 m) high. The light was called the semaphore and had arms that would extend horizontally that commanded drivers to "Stop" and then the arms would lower to a 45 degrees angle to tell drivers to proceed with "Caution". At night a red light would command "Stop" and a green light would mean use "Caution".[6]
+Although it was said to be successful at controlling traffic, its operational life was brief. It exploded on 2 January
+1869 as a result of a leak in one of the gas lines underneath the pavement[12] and injured the policeman who was operating it.[13]
+In the first two decades of the 20th century, semaphore traffic signals like the one in London were in use all
+over the United States with each state having its own design of the device. One example was from Toledo,
+Ohio in 1908. The words "Stop" and "Go" were in white on a green background and the lights had red and green lenses
+illuminated by kerosene lamps for night travelers and the arms were 8 feet (2.4 m) above ground.[14] It was controlled
+by a traffic officer who would blow a whistle before changing the commands on this signal to help alert travelers of
+the change. The design was also used in Philadelphia and Detroit.[15] The example in Ohio was the first time America
+tried to use a more visible form of traffic control that evolved the use of semaphore. The device that was used in Ohio
+was designed based on the use of railroad signals.[16]
+In 1912, a traffic control device was placed on top a tower in Paris at the Rue Montmartre and Grande Boulevard.
+This tower signal was manned by a police woman and she operated a revolving four-sided metal box on top of a glass
+showcase where the word "Stop" was painted in red and the word "Go" painted in white.[17]
+An electric traffic light was developed in 1912 by Lester Wire, a policeman in Salt Lake City, Utah, who also used
+red-green lights.[18] On 5 August 1914, the American Traffic Signal Company installed a traffic signal system on the
+corner of East 105th Street and Euclid Avenue in Cleveland, Ohio.[19][20] It had two colours, red and green, and a
+buzzer, based on the design of James Hoge, to provide a warning for colour changes. The design by James Hoge[21]
+allowed police and fire stations to control the signals in case of emergency. The first four-way, three-colour
+traffic light was created by police officer William Potts in Detroit, Michigan in 1920.[22] Ashville, Ohio claims
+to be the home of the oldest working traffic light in the United States, used at an intersection of public roads
+from 1932 to 1982 when it was moved to a local museum.[23][24] Many pictures of historical traffic lights appear
+at a Traffic Signal Trivia page.[25]
+The tower was the first innovation that used the three-coloured traffic signal and appeared first in the City of
+Detroit, where the first three-coloured traffic light was built at the intersection of Michigan and Woodward Avenues
+in 1920. The man behind this three-colour traffic light was police officer William Potts of Detroit. He was concerned
+about how police officers at four different lights signals could not change their lights all at the same time.
+The answer was a third light that was coloured amber, which was the same colour used on the railroad.[10] Potts
+also placed a timer with the light to help coordinate a four-way set of lights in the city. The traffic tower soon
+used twelve floodlights to control traffic and the reason for a tower in the first place was that at the time the
+intersection was one of the busiest in the world, with over 20,000 vehicles daily.[26]
+Los Angeles installed its first automated traffic signals in October 1920 at five locations on Broadway.
+These early signals, manufactured by the Acme Traffic Signal Co., paired "Stop" and "Go" semaphore arms with small
+red and green lights. Bells played the role of today's amber or yellow lights, ringing when the flags changed—a process
+that took five seconds. By 1923 the city had installed 31 Acme traffic control devices.[27] The Acme semaphore traffic
+lights were often used in Warner Bros. Looney Tunes and Merrie Melodies cartoons for comedic effect due to their loud bell.
+The first interconnected traffic signal system was installed in Salt Lake City in 1917, with six connected intersections
+controlled simultaneously from a manual switch.[28] Automatic control of interconnected traffic lights was introduced
+March 1922 in Houston, Texas.[29]
